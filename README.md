@@ -1,5 +1,7 @@
 # Automated Exam Sheet Grader using OCR
 
+> This project was developed with the assistance of AI tools to help accelerate my learning. Most technologies used were new to me, and I’m working step-by-step to understand and improve over time.
+
 This Python project automates grading of handwritten or printed answer sheets using OCR (Optical Character Recognition). It extracts student answers from scanned images, compares them to an answer key, and generates a detailed report with class statistics.
 
 ## Features
