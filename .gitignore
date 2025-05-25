@@ -1,0 +1,41 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+venv/
+env/
+.venv/
+
+# IDE/editor config files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+process.log
+
+# Output files
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.out
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# Ignore debug folder and all its contents
+debug/
